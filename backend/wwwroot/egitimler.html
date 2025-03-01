@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eğitimler</title>
+    <style>
+        .user-info {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: rgba(255, 255, 255, 0.95);
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        z-index: 1000;
+        text-align: left;
+    }
+
+    .user-info h3 {
+        color: #030000;
+        margin: 0 0 10px 0;
+        font-size: 1.2em;
+    }
+
+    .user-info ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .user-info li {
+        color: #333;
+        margin-bottom: 5px;
+    }
+        /* Genel sayfa stil ayarları */
+        body {
+            font-family: Tahoma, Verdana, sans-serif; /* Yazı tipi */
+            color: orange; /* Yazı rengi */
+            font-size: 16px; /* Yazı boyutu */
+            background-color: #f3dbe9; /* Arka plan rengi */
+            text-align: center; /* Metin ortalaması */
+            padding: 20px; /* İç boşluk */
+            margin: 0; /* Dış boşluk */
+        }
+
+        h1 {
+            text-align: center;
+            font-family: 'Luckiest Guy', cursive;
+            color: #000000;
+            font-size: 3.5em;
+            text-shadow: 3px 3px 0 #FFE66D,
+                        -1px -1px 0 #FFE66D,
+                        1px -1px 0 #FFE66D,
+                        -1px 1px 0 #FFE66D,
+                        1px 1px 0 #FFE66D;
+            margin: 30px 0;
+            letter-spacing: 2px;
+            transform: rotate(-2deg);
+            animation: bounce 1s infinite alternate;
+        }
+        
+        .card-container {
+            display: flex;
+            justify-content: center; /* Kartları ortala */
+            flex-wrap: wrap; /* Kartlar sığmazsa alt satıra geçsin */
+            gap: 20px; /* Kartlar arasında boşluk */
+        }
+
+        .card-row {
+            display: flex;
+            justify-content: center;
+            gap: 20px; /* Kartlar arasında boşluk */
+            width: 100%; /* Satır genişliği */
+            margin-bottom: 20px; /* Satırlar arasında boşluk */
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 300px; /* Kart genişliği */
+            overflow: hidden; /* Taşan içerikleri gizle */
+            transition: transform 0.3s; /* Büyütme animasyonu */
+            cursor: pointer; /* Fare imleci el işareti olsun */
+        }
+
+        .card img {
+            width: 100%; /* Resim genişliği %100 */
+            height: 200px; /* Resim yüksekliği */
+            object-fit: cover; /* Resmi kırp ve kapla */
+        }
+
+        .card h3 {
+            padding: 15px;
+            text-align: center;
+            font-size: 1.5em; /* Kart başlık boyutu */
+            color: #333;
+        }
+
+        .card p {
+            padding: 0 15px 15px;
+            font-size: 1.1em; /* Kart açıklama boyutu */
+            text-align: justify;
+            color: #555;
+        }
+
+        .card:hover {
+            transform: scale(1.05); /* Fareyle gelindiğinde kartı büyüt */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="user-info">
+        <h3>Kullanıcı Profili</h3>
+        <ul>
+            <li>Ad: Ahmet Yılmaz</li>
+            <li>Soyad: Demir</li>
+            <li>Tamamlanan Eğitim: 4</li>
+        </ul>
+    </div>
+
+    <!-- Diğer içerikler aynı kalacak -->
+    <h1>Eğitimler</h1>
+    <div class="card-container">
+        <!-- İlk 4 Kart (Üst Satır) -->
+        <div class="card-row">
+            <!-- Renkler Eğitimi -->
+            <div class="card" onclick="window.location.href='egitimler.renkler.html';">
+                <img src="görseller/görsel1.jpg" alt="Renkler">
+                <h3>Renkler</h3>
+                <p style="font-style: italic;">Renkleri öğrenin! Bu eğitimde temel renkleri ve renk karışımlarını keşfedeceksiniz.</p>
+            </div>
+
+            <!-- Hayvanlar Eğitimi -->
+            <div class="card" onclick="window.location.href='egitimler.hayvanlar.html';">
+                <img src="görseller/görsel2.jpg" alt="Hayvanlar">
+                <h3>Hayvanlar</h3>
+                <p style="font-style: italic;">Hayvanları tanıyın! Bu eğitimde farklı hayvan türlerini ve özelliklerini öğreneceksiniz.</p>
+            </div>
+
+            <!-- Meslekler Eğitimi -->
+            <div class="card" onclick="window.location.href='egitimler.meslekler.html';">
+                <img src="görseller/görsel3.jpg" alt="Meslekler">
+                <h3>Meslekler</h3>
+                <p style="font-style: italic;">Meslekleri keşfedin! Bu eğitimde farklı meslekleri ve görevlerini öğreneceksiniz.</p>
+            </div>
+
+            <!-- Şekiller Eğitimi -->
+            <div class="card" onclick="window.location.href='egitimler.sekiller.html';">
+                <img src="görseller/görsel4.jpg" alt="Şekiller">
+                <h3>Şekiller</h3>
+                <p style="font-style: italic;">Şekilleri öğrenin! Bu eğitimde temel geometrik şekilleri ve özelliklerini keşfedeceksiniz.</p>
+            </div>
+        </div>
+
+        <!-- Sonraki 4 Kart (Alt Satır) -->
+        <div class="card-row">
+            <!-- Trafik İşaretleri Eğitimi -->
+            <div class="card" onclick="window.location.href='trafik-isaretleri.html';">
+                <img src="görseller/görsel5.jpg" alt="Trafik İşaretleri">
+                <h3>Trafik İşaretleri</h3>
+                <p style="font-style: italic;">Trafik işaretlerini öğrenin! Bu eğitimde temel trafik işaretlerini ve anlamlarını keşfedeceksiniz.</p>
+            </div>
+
+            <!-- Günlük Hayatta Selamlaşma Eğitimi -->
+            <div class="card" onclick="window.location.href='selamlasma.html';">
+                <img src="görseller/görsel6.png" alt="Günlük Hayatta Selamlaşma">
+                <h3>Günlük Hayatta Selamlaşma</h3>
+                <p style="font-style: italic;">Günlük hayatta kullanılan selamlaşma ifadelerini öğrenin! Bu eğitimde temel selamlaşma kalıplarını keşfedeceksiniz.</p>
+            </div>
+
+            <!-- Alfabe Eğitimi -->
+            <div class="card" onclick="window.location.href='alfabe.html';">
+                <img src="görseller/görsel7.jpg" alt="Alfabe">
+                <h3>Alfabe</h3>
+                <p style="font-style: italic;">Alfabeyi öğrenin! Bu eğitimde harfleri ve okunuşlarını keşfedeceksiniz.</p>
+            </div>
+
+            <!-- Duygular Eğitimi -->
+            <div class="card" onclick="window.location.href='duygular.html';">
+                <img src="görseller/görsel8.jpg" alt="Duygular">
+                <h3>Duygular</h3>
+                <p style="font-style: italic;">Duyguları öğrenin! Bu eğitimde temel duyguları ve ifade biçimlerini keşfedeceksiniz.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

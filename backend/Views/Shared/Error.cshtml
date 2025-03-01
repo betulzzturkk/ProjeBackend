@@ -1,0 +1,24 @@
+﻿@model backend.Models.ErrorViewModel
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hata</title>
+</head>
+<body>
+    <h1>Bir Hata Oluştu!</h1>
+
+    @if (Model.ShowRequestId)
+    {
+        <p>Hata Kodu: @Model.RequestId</p>
+    }
+    else
+    {
+        <p>Hata bilgisi mevcut değil.</p>
+    }
+
+    <p><a href="@Url.Action("Index", "Home")">Ana sayfaya dön</a></p>
+</body>
+</html>

@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\backend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\backend.qif5up2w7g.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\egitimler.html",
+      "PackagePath": "staticwebassets\\egitimler.html"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\girisekran.html",
+      "PackagePath": "staticwebassets\\girisekran.html"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\arka5.jpeg",
+      "PackagePath": "staticwebassets\\görseller\\arka5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\arkaplan.webp",
+      "PackagePath": "staticwebassets\\görseller\\arkaplan.webp"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\ascı.jpg",
+      "PackagePath": "staticwebassets\\görseller\\ascı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\aslan.jpg",
+      "PackagePath": "staticwebassets\\görseller\\aslan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\astronot.jpg",
+      "PackagePath": "staticwebassets\\görseller\\astronot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\ayı.jpg",
+      "PackagePath": "staticwebassets\\görseller\\ayı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\bahcıvan.jpg",
+      "PackagePath": "staticwebassets\\görseller\\bahcıvan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\beyaz.jpg",
+      "PackagePath": "staticwebassets\\görseller\\beyaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\cember.jpg",
+      "PackagePath": "staticwebassets\\görseller\\cember.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\daire.jpg",
+      "PackagePath": "staticwebassets\\görseller\\daire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\dikdörtgen.jpg",
+      "PackagePath": "staticwebassets\\görseller\\dikdörtgen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\disci.jpg",
+      "PackagePath": "staticwebassets\\görseller\\disci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\doktor.jpg",
+      "PackagePath": "staticwebassets\\görseller\\doktor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\fil.jpg",
+      "PackagePath": "staticwebassets\\görseller\\fil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\futbolcu.jpg",
+      "PackagePath": "staticwebassets\\görseller\\futbolcu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\gokkusak.jpg",
+      "PackagePath": "staticwebassets\\görseller\\gokkusak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\gri.jpg",
+      "PackagePath": "staticwebassets\\görseller\\gri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel1.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel2.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel3.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel4.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel5.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel6.png",
+      "PackagePath": "staticwebassets\\görseller\\görsel6.png"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel7.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\görsel8.jpg",
+      "PackagePath": "staticwebassets\\görseller\\görsel8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\hemsire.jpg",
+      "PackagePath": "staticwebassets\\görseller\\hemsire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\hostes.jpg",
+      "PackagePath": "staticwebassets\\görseller\\hostes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\isci.jpg",
+      "PackagePath": "staticwebassets\\görseller\\isci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kahverengi.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kahverengi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kalp.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kalp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kare.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kedi.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kedi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kopek.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kopek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kus.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\kırmızı.jpg",
+      "PackagePath": "staticwebassets\\görseller\\kırmızı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\mavi.jpg",
+      "PackagePath": "staticwebassets\\görseller\\mavi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\mimar.jpg",
+      "PackagePath": "staticwebassets\\görseller\\mimar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\mor.jpg",
+      "PackagePath": "staticwebassets\\görseller\\mor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\oval.jpg",
+      "PackagePath": "staticwebassets\\görseller\\oval.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\pembe.jpg",
+      "PackagePath": "staticwebassets\\görseller\\pembe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\polis.jpg",
+      "PackagePath": "staticwebassets\\görseller\\polis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\sarı.jpg",
+      "PackagePath": "staticwebassets\\görseller\\sarı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\sincap.webp",
+      "PackagePath": "staticwebassets\\görseller\\sincap.webp"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\siyah.jpg",
+      "PackagePath": "staticwebassets\\görseller\\siyah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\turuncu.jpg",
+      "PackagePath": "staticwebassets\\görseller\\turuncu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\yesil.jpg",
+      "PackagePath": "staticwebassets\\görseller\\yesil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\yıldız.jpg",
+      "PackagePath": "staticwebassets\\görseller\\yıldız.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\zürafa.jpg",
+      "PackagePath": "staticwebassets\\görseller\\zürafa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\ögretmen.jpg",
+      "PackagePath": "staticwebassets\\görseller\\ögretmen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\görseller\\ücgen.jpg",
+      "PackagePath": "staticwebassets\\görseller\\ücgen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\betulozturk\\OneDrive\\Desktop\\backend\\backend\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

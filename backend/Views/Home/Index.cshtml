@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa"; // Sayfa başlığını burada belirtiyoruz
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title> <!-- Başlık dinamik olarak eklendi -->
+    
+    <!-- Bootstrap stil dosyasını ASP.NET Core'da doğru şekilde bağlayalım -->
+    <link rel="stylesheet" href="~/lib/bootstrap/bootstrap.min.css">
+
+    <style>
+       body {
+            font-family: 'Impact', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            text-align: center;
+            
+            /* Background image burada tanımlanır */
+            background-image: url('/görseller/arka5.jpeg'); /* Görsel yolunu buraya yazın */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            
+            color: rgb(254, 249, 253);
+        }
+
+
+        h1 {
+            font-size: 7em;
+            margin-top: 200px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            font-weight: bold;
+        }
+
+        .giris-butonu {
+            padding: 15px 30px;
+            font-size: 1.5em;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-top: 20px;
+        }
+
+        .giris-butonu:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>OTİZM EĞİTİM PLATFORMU</h1>
+    <button class="giris-butonu" onclick="window.location.href='@Url.Action("Login", "Home")'">Giriş Yap</button>
+    <!-- Bu buton, giriş sayfasına yönlendirecek -->
+    
+    <script src="~/lib/bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html>
